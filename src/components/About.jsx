@@ -10,7 +10,7 @@ const About = () => {
 
             <p className="text-xl mt-5">
               Seattle Resident, with a passion for making technology more accessible.
-              Aspiring to become a front-end engineer with an aim to improve user accessibility on web and mobile applications.
+              Aspiring to become a front-end engineer with an aim to improve user accessibility on web applications.
             </p>
 
             <br />
